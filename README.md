@@ -1,5 +1,5 @@
-# ScientificCalculator
- Material Design Scientific calculator Android studio Project
+# LeOS Calculator
+ Material Design calculator 
  
 <div align="center">
     <img src="/screenshot_1.png" width="400px"</img>
